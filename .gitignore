@@ -1,0 +1,9 @@
+# Never commit secrets or private details
+*.key
+*.pem
+*.env
+*password*
+*secret*
+*token*
+authkey*
+private-notes/
